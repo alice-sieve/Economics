@@ -9,6 +9,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Anant-Moudgalya-and-Tapasweni-Pathak
 
 https://paper.dropbox.com/doc/Meeting-notes-Amulya-Arun-B-and-Tapasweni-Pathak--AfeL75SJpq9aBARyx6Ve6ADWAQ-MzDc2Znves8gqHELXpVr2
 
+https://paper.dropbox.com/doc/Meeting-notes-CHARU-SINHA-and-Tapasweni-Pathak--AgYo18kTMYcBxIQEVce7aYpyAQ-xzdVdVRkbYqujGpdNMtqb
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
